@@ -1,0 +1,5 @@
+firstName,lastName,email,company,industry,jobTitle,companySize,source,websiteVisits,emailOpens,demoRequested,consent,status
+Nadia,El Amrani,nadia.demo@example.com,Northlight Systems,Technology,Head of Growth,201–500,Website,18,9,true,true,New
+Thomas,Laurent,thomas.demo@example.com,Greenhaven Analytics,Professional Services,Sales Director,51–200,LinkedIn,10,6,false,true,Contacted
+Lina,Benali,lina.demo@example.com,Silveroak Health,Healthcare,Operations Director,"501–1,000",Events,16,10,true,false,Qualified
+David,Park,david.demo@example.com,"Cedar, Finch & Co",Financial Services,VP of Sales,11–50,Referral,3,1,false,true,New
